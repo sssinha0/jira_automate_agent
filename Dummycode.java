@@ -1,6 +1,6 @@
 public class Dummycode {
     public static void dummyMethod() {
-        System.out.println("This is a dummy method.")
+        System.out.println("This method should not print anything.");
     }
     //dummy commit to check jira connected or not
     public static void main(String[] args) {
